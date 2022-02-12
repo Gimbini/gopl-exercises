@@ -1,0 +1,3 @@
+# Exercise 3.3
+
+![](ripple_heatmap.png)
